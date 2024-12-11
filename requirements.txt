@@ -1,1 +1,16 @@
 Flask
+Flask-Mail
+Flask-SocketIO
+Flask-Caching
+Flask-DebugToolbar
+google-auth
+google-auth-oauthlib
+mysql-connector-python
+bcrypt
+requests
+python-dotenv
+twilio
+midtransclient
+pandas
+fpdf
+Pillow
